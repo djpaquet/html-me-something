@@ -1,0 +1,42 @@
+body {
+   margin: 10px;
+   padding: 0;
+
+}
+p {
+    font-display: Courier, monospace;
+    font-size: 18px;
+    margin: 5px, 10px;
+}
+
+header {
+    font-family: 'New Courier', monospace;
+    font-size: 80px;
+    border: 3px solid #06214c;
+    text-align: center;
+    color: azure;
+    background-color: #06214c;
+    margin: 50px, 20px;
+    }
+h1 {
+    font-family: 'New Courier', monospace;
+}
+div{
+    margin: 20px, 10px;
+}
+
+.rotate-90{
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+}
+
+.footer {
+    font-family: 'New Courier', monospace;
+    border: 3px solid #06214c;
+    text-align: center;
+    color: azure;
+    background-color: #06214c;
+    margin: 30px;
+    padding: 10px, 10px;
+}
